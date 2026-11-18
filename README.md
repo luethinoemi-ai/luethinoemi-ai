@@ -1,5 +1,14 @@
-# 💫 About Me:
-🔭 I’m currently working on my designs, my GitHub projects, and whatever I need to learn for work.<br><br>👯 I’m looking to collaborate on small Vue.js projects where design and code come together.<br><br>🤝 I’m looking for help with Vue.js best practices and keeping my repos clean.<br><br>🌱 I’m currently learning Vue.js and new skills for my apprenticeship.<br><br>💬 Ask me about cars, motorcycles, drawing, or life as an app dev apprentice.<br><br>⚡ Fun fact: I can sketch a motorcycle faster than I can write a for-loop.<br>
+# 👋 Hi, I'm Noemi
+
+Apprentice Software Developer from Switzerland 🇨🇭
+
+Passionate about frontend development, UI/UX design, and learning new technologies.
+
+Currently focused on Vue.js, personal projects, and growing my skills through my apprenticeship.
+
+💬 Cars • Motorcycles • Drawing • Frontend Development
+
+⚡ I can sketch a motorcycle faster than I can write a `for` loop.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/pfannkuchen._.lover) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the.noemi.xo) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@_https.noemiii) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:luethinoemi@gmail.com) 
